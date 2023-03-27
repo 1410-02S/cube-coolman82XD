@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 
+//Looks pretty good to me, fairly complete. It could obviously use some more thought in the user experience dept. 
+//But that being said I think its just fine for the scope of this one.
+
 public class RubixCube {
     public static void main(String [] args) 
     throws IOException
